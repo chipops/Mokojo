@@ -1,4 +1,4 @@
-Mokojo
-======
+Html5Assets
+===========
 
-Remote controller for your pc
+Html5 assets
