@@ -10,7 +10,7 @@
   <name>Mokojo</name>
   <icon src="icon.png" width="180" height="155"></icon>
   <description>
-    Layla Sheeps
+    Mokojo remote controller
   </description>
   <preference name="show-splash-screen-spinner" value="false" />
   <preference name="stay-in-webview" value="true" />
